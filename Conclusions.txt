@@ -1,0 +1,7 @@
+The lowest humidity is found between 20 and 40 degrees both Northa and South. There is also very high humidity at Northern latitudes away from the Ecuator
+
+The highest latitudes have lower maximum temperatures than the lower latitudes for both hemispheres.
+
+Wind speed is evenly distributed for both hemispheres.
+
+There is a bias in the data with more cities from the Northern than the Southern hemisphere. This reflects the fact that most of the countries in the world are located in the Northern hemisphere.
